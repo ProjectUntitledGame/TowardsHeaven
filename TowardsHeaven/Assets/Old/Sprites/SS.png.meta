@@ -1,0 +1,3959 @@
+fileFormatVersion: 2
+guid: a061f6dc3b26f49439027dfbc7491de9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2661237713463605235
+    second: Player
+  - first:
+      213: 4618005581677913770
+    second: Weapon_RedSpear
+  - first:
+      213: 1738171001141350174
+    second: Decoration_Rock1
+  - first:
+      213: 5607109882790909817
+    second: Decoration_Rock2
+  - first:
+      213: 5888396812446430442
+    second: Decoration_Rock3
+  - first:
+      213: 2515210288316950015
+    second: Enemy_Fly1
+  - first:
+      213: 7157071037379459132
+    second: Decoration_Potion1
+  - first:
+      213: -3896580465422073515
+    second: Decoration_Potion2
+  - first:
+      213: -6910421011295791777
+    second: Decoration_Potion3
+  - first:
+      213: 4075853403995897321
+    second: Decoration
+  - first:
+      213: 6876059373434822235
+    second: Flower_2
+  - first:
+      213: -1323461178501462965
+    second: Decoration_Cactus1
+  - first:
+      213: -5729491523310744939
+    second: Decoration_Cactus2
+  - first:
+      213: 4793083212223996667
+    second: Decoration_Cactus3
+  - first:
+      213: -829915337186679936
+    second: Decoration_Skull3
+  - first:
+      213: 2290612425477440920
+    second: Decoration_Skull2
+  - first:
+      213: 4702502431605430082
+    second: Decoration_Skull1
+  - first:
+      213: -9078364450650766831
+    second: Decoration_Flower4
+  - first:
+      213: 7025027328536067115
+    second: Decoration_Flower2
+  - first:
+      213: -6457800432392391978
+    second: Enemy_Steven1
+  - first:
+      213: -5580026058602980285
+    second: Decoration_Flower3
+  - first:
+      213: 1911344666235829042
+    second: Decoration_Mushroom1
+  - first:
+      213: 8660210235247133648
+    second: Decoration_Mushroom2
+  - first:
+      213: 3667656230262610163
+    second: Enemy_Mimic1
+  - first:
+      213: -7408347236176368741
+    second: Enemy_Slime4
+  - first:
+      213: -4001520956026323346
+    second: SS_25
+  - first:
+      213: 2730996177308848059
+    second: Decoration_Bone1
+  - first:
+      213: -8859090391272110096
+    second: Decoration_Bone2
+  - first:
+      213: 3071878229869724778
+    second: Decoration_Bone3
+  - first:
+      213: 6820611366387106402
+    second: Decoration_Mushroom3
+  - first:
+      213: -5289200781502617414
+    second: Floor_Grass
+  - first:
+      213: 3626958688652240724
+    second: Floor_DeadGrass
+  - first:
+      213: 1938757410376800330
+    second: Pickup_Clover
+  - first:
+      213: -425667053403192784
+    second: Decoration_Ice2
+  - first:
+      213: -5530576145304395490
+    second: Decoration_Ice2
+  - first:
+      213: -5890963746929468481
+    second: Pikcup_Spirit
+  - first:
+      213: -3317823253195391485
+    second: Pickcup_Mirror
+  - first:
+      213: -3429336034547545559
+    second: Pickup_Key
+  - first:
+      213: -5868540655644543058
+    second: Pickup_Heart
+  - first:
+      213: -5990710316154820109
+    second: Chest
+  - first:
+      213: 8328624625412860288
+    second: Chest_Heaven
+  - first:
+      213: 1559621546130692560
+    second: Chest_Hell
+  - first:
+      213: 1118681092591306559
+    second: Weapon_StarterSword
+  - first:
+      213: 8480140712653838882
+    second: Weapon_TwistSword
+  - first:
+      213: -7113595306751859006
+    second: Weapon_SkullStaff
+  - first:
+      213: 3449410095762793204
+    second: Weapon_Axe
+  - first:
+      213: 6079199212719471829
+    second: Weapon_Rapier
+  - first:
+      213: 1102405473734694231
+    second: Weapon_EyeStaff
+  - first:
+      213: 5235972136617473059
+    second: Weapon_WingStaff
+  - first:
+      213: -1221246483207341934
+    second: Weapon_Dagger
+  - first:
+      213: -3947218314818852337
+    second: Decoration_Ice3
+  - first:
+      213: -2673004317811306841
+    second: Decoration_Tree3
+  - first:
+      213: 5434552904054578603
+    second: Decoration_Barrel3
+  - first:
+      213: -4201384236139999175
+    second: Decoration_Barrel2
+  - first:
+      213: 4146107965143214173
+    second: Pickup_Brain
+  - first:
+      213: 1343280502142111896
+    second: Decoration_Barrel1
+  - first:
+      213: -1015845973414799863
+    second: Floor_Hay
+  - first:
+      213: -903861353028892698
+    second: Floor_BlackWhite
+  - first:
+      213: -2798194764466782181
+    second: Floor_Rock
+  - first:
+      213: -7710920603226556681
+    second: Floor_Rock
+  - first:
+      213: 8187509825704654533
+    second: Floor_Polished_Rock
+  - first:
+      213: 6644259088491888026
+    second: Floor_Purple
+  - first:
+      213: -7710920603226556681
+    second: Floor_Lava
+  - first:
+      213: -8224030854904812262
+    second: Pickup_SatanHorn
+  - first:
+      213: -2059903685638345352
+    second: Enemy_Fly1
+  - first:
+      213: -8015237338819684732
+    second: Enemy_Fly2
+  - first:
+      213: 7553097168990013559
+    second: Enemy_Fly1
+  - first:
+      213: -4875250586263166462
+    second: Enemy_Fly4
+  - first:
+      213: -5885947606076260290
+    second: Enemy_FlyEye1
+  - first:
+      213: 7553097168990013559
+    second: Enemy_Slime1
+  - first:
+      213: -8254655197795493600
+    second: Enemy_FlyEye2
+  - first:
+      213: 6640069250624631270
+    second: Enemy_FlyEye3
+  - first:
+      213: -6943140013965926838
+    second: Floor_Rock
+  - first:
+      213: -6943140013965926838
+    second: Enemy_Fly3
+  - first:
+      213: -5303360626615370967
+    second: Floor_Rock
+  - first:
+      213: -5303360626615370967
+    second: Enemy_Ghost2
+  - first:
+      213: -8041131048222562242
+    second: Player_Shoot_Up_Anim4
+  - first:
+      213: -1695278204139776750
+    second: Enemy_Slime2
+  - first:
+      213: 6413293254142372744
+    second: Decoration_Feather2
+  - first:
+      213: 6257590173652914272
+    second: Enemy_Slime3
+  - first:
+      213: -7582602926059462078
+    second: Decoration_Pillar2
+  - first:
+      213: 2992289094075905718
+    second: Enemy_Hive
+  - first:
+      213: -3566270362716781615
+    second: Enemy_Crab1
+  - first:
+      213: -7744614644064329494
+    second: Player_Shoot_Right_Anim1
+  - first:
+      213: 473203083441614332
+    second: Enemy_Spriggan
+  - first:
+      213: 2144361989511114807
+    second: Enemy_Abraxas
+  - first:
+      213: 203010749255499211
+    second: Enemy_SpiderBomb
+  - first:
+      213: -4964955550517686749
+    second: Enemy_Worm
+  - first:
+      213: -1101567199166746187
+    second: Projectile_Light1
+  - first:
+      213: 9109975267457802980
+    second: Projectile_SmallFIreball2
+  - first:
+      213: 880020182276069307
+    second: Enemy_Mushroom
+  - first:
+      213: 6022954611865219427
+    second: Enemy_Ghost1
+  - first:
+      213: 3442809882637420177
+    second: Enemy_Ghost3
+  - first:
+      213: -2801718269819860731
+    second: Pickup_HeatPotion
+  - first:
+      213: 6080452422681063899
+    second: Pickup_Halo
+  - first:
+      213: -1004659375279858952
+    second: Pickup_LightningPotion
+  - first:
+      213: 3908610340472409
+    second: Pickup_PurpleSyringe
+  - first:
+      213: 3020513428098879299
+    second: Enemy_Fly1
+  - first:
+      213: -6545339669241592278
+    second: Player_Shoot_Right
+  - first:
+      213: 3020513428098879299
+    second: Player_Right
+  - first:
+      213: 6419384868885342010
+    second: Player_Left
+  - first:
+      213: 7615407921949608793
+    second: Player_Shoot_Left
+  - first:
+      213: -3241357071539376632
+    second: Player_Shoot_Up
+  - first:
+      213: -8109685666265812521
+    second: Player_up
+  - first:
+      213: 3282766334395934303
+    second: Player_Shoot_Down
+  - first:
+      213: -8336032928445634967
+    second: Player_Down
+  - first:
+      213: -8332773050292563468
+    second: Enemy_LavaGolem
+  - first:
+      213: 1556598468070518097
+    second: SS_27
+  - first:
+      213: 305296391695779367
+    second: Enemy_Mimic4
+  - first:
+      213: 3194642927168310476
+    second: Decoration_Flower1
+  - first:
+      213: -925987182336908139
+    second: Decoration_Tree2
+  - first:
+      213: -7780121197507870451
+    second: SS_32
+  - first:
+      213: 6265875954013646223
+    second: Floor_Rock
+  - first:
+      213: -2059903685638345352
+    second: SS_2
+  - first:
+      213: 7538380546106526804
+    second: Player_Shoot_Up_Anim3
+  - first:
+      213: -5544812054223867812
+    second: Player_Up_Anim1
+  - first:
+      213: 1973695131418966626
+    second: Decoration_Feather1
+  - first:
+      213: 5506174776566134192
+    second: Decoration_Tree1
+  - first:
+      213: 6876059373434822235
+    second: Player_Down_Anim3
+  - first:
+      213: -3566270362716781615
+    second: Decoration_Pillar3
+  - first:
+      213: 6692918723157709937
+    second: Player_Right_Anim1
+  - first:
+      213: 8149120400341948850
+    second: Enemy_Slime5
+  - first:
+      213: 2772296088503513061
+    second: Enemy_Sludge
+  - first:
+      213: -8375327107504704157
+    second: Projectile_Light2
+  - first:
+      213: 5730114958762835705
+    second: Enemy_Mimic2
+  - first:
+      213: -7103266841576981374
+    second: Enemy_Mimic3
+  - first:
+      213: 8616777288629481806
+    second: SS_29
+  - first:
+      213: -2918286183498908687
+    second: Weapon_Scythe
+  - first:
+      213: -4722748905998608647
+    second: Projectile_SmallFIreball1
+  - first:
+      213: 9144467752228991253
+    second: Decoration_Pillar1
+  - first:
+      213: 6759167856203110258
+    second: Decoration_Feather3
+  - first:
+      213: -4914638476821496117
+    second: SS_39
+  - first:
+      213: 2717714762256219638
+    second: SS_40
+  - first:
+      213: -6573538924528251327
+    second: SS_41
+  - first:
+      213: 2424017547578930740
+    second: SS_42
+  - first:
+      213: -2661237713463605235
+    second: Floor_Purple
+  - first:
+      213: 7547450990727512432
+    second: Floor_Lava
+  - first:
+      213: -2661237713463605235
+    second: Player_Up_Anim2
+  - first:
+      213: 7547450990727512432
+    second: Player_Up_Anim3
+  - first:
+      213: 7252056698579178966
+    second: Player_Up_Anim4
+  - first:
+      213: 3445259989324582234
+    second: Projectile_Slime1
+  - first:
+      213: 7811700059994070095
+    second: Player_Left_Anim3
+  - first:
+      213: 6575521789095233928
+    second: Player_Left_Anim4
+  - first:
+      213: 2214589035919608042
+    second: Player_Shoot_Up_Anim1
+  - first:
+      213: 4000703084180165632
+    second: Player_Shoot_Up_Anim2
+  - first:
+      213: 2844172616577254728
+    second: Player_Shoot_Down_Anim1
+  - first:
+      213: -5294630365711704678
+    second: Player_Shoot_Down_Anim2
+  - first:
+      213: -6454562689403540970
+    second: Player_Shoot_Down_Anim3
+  - first:
+      213: -1679241795538908325
+    second: Player_Shoot_Down_Anim4
+  - first:
+      213: -6712196826300199515
+    second: Player_Down_Anim1
+  - first:
+      213: 4075853403995897321
+    second: Player_Down_Anim2
+  - first:
+      213: -972582700508985722
+    second: Player_Down_Anim4
+  - first:
+      213: -1630434698587112526
+    second: SS_0
+  - first:
+      213: 6339057004256834443
+    second: SS_1
+  - first:
+      213: 2491595376821281388
+    second: Player_Shoot_Right_Anim2
+  - first:
+      213: 5252514917532893816
+    second: Player_Shoot_Right_Anim3
+  - first:
+      213: -383425094227419658
+    second: Player_Shoot_Right_Anim4
+  - first:
+      213: 456119678415074334
+    second: SS_8
+  - first:
+      213: 2130628155230505564
+    second: Player_Right_Anim2
+  - first:
+      213: 3199255627635195840
+    second: Player_Right_Anim3
+  - first:
+      213: 5199613938083354549
+    second: Player_Right_Anim4
+  - first:
+      213: -4491955071735787938
+    second: SS_3
+  - first:
+      213: 630783788695170523
+    second: Player_Left_Anim1
+  - first:
+      213: -8807412625038623592
+    second: Player_Left_Anim2
+  - first:
+      213: -6924016420911557795
+    second: Player_Shoot_Left1
+  - first:
+      213: -331207331274974783
+    second: Player_Shoot_Left2
+  - first:
+      213: 5610440070560964319
+    second: Player_Shoot_Left3
+  - first:
+      213: 8285246005113687320
+    second: Player_Shoot_Left4
+  - first:
+      213: -4357084207762555517
+    second: SS_13
+  - first:
+      213: 8733832814666207027
+    second: Enemy_Slime5
+  - first:
+      213: 3830657706014040288
+    second: Enemy_LavaGolem
+  - first:
+      213: -3601792874941910763
+    second: Enemy_Snowman
+  - first:
+      213: 8118544890424620358
+    second: Projectile_Light3
+  - first:
+      213: -6912541585348423749
+    second: Projectile_SmallFIreball3
+  - first:
+      213: -6037264663953554962
+    second: Projectile_Slime2
+  - first:
+      213: -924081125390311800
+    second: Projectile_Slime3
+  - first:
+      213: 6082686606569652508
+    second: SS_30
+  - first:
+      213: -347019009274748201
+    second: SS_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Weapon_RedSpear
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 640
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa6eeaafb93761040800000000000000
+      internalID: 4618005581677913770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Rock1
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 397
+        width: 35
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f4ae9f0593f1810800000000000000
+      internalID: 1738171001141350174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Rock2
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 389
+        width: 54
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977955c0bb470dd40800000000000000
+      internalID: 5607109882790909817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Rock3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 389
+        width: 34
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4796ee3b9c7b150800000000000000
+      internalID: 5888396812446430442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Potion1
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 395
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c383d3f4036035360800000000000000
+      internalID: 7157071037379459132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Potion2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 392
+        width: 31
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5518acf26b09ce9c0800000000000000
+      internalID: -3896580465422073515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Potion3
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 398
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55915504b04910a0800000000000000
+      internalID: -6910421011295791777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Cactus1
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 391
+        width: 27
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b448665f11f12ade0800000000000000
+      internalID: -1323461178501462965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Cactus2
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 389
+        width: 28
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a8371d0d1cc70b0800000000000000
+      internalID: -5729491523310744939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Cactus3
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 393
+        width: 39
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2ef7369c3748240800000000000000
+      internalID: 4793083212223996667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Skull3
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 405
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 083e65dd56c8b74f0800000000000000
+      internalID: -829915337186679936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Skull2
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 393
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895cda26dd3e9cf10800000000000000
+      internalID: 2290612425477440920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Skull1
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 392
+        width: 35
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247904feb05a24140800000000000000
+      internalID: 4702502431605430082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Flower4
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 389
+        width: 30
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1124d61a1ab230280800000000000000
+      internalID: -9078364450650766831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Flower2
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 390
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cbdc69229ed7160800000000000000
+      internalID: 7025027328536067115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Flower3
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 398
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34cdb8b2dd3cf82b0800000000000000
+      internalID: -5580026058602980285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Mushroom1
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 391
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23bf252e8d5768a10800000000000000
+      internalID: 1911344666235829042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Mushroom2
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 393
+        width: 23
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d38b10435f3f2870800000000000000
+      internalID: 8660210235247133648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_25
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 384
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef4c634edb778c0800000000000000
+      internalID: -4001520956026323346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Bone1
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 327
+        width: 41
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf8177cd8276e520800000000000000
+      internalID: 2730996177308848059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Bone2
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 333
+        width: 21
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f746230a303e0580800000000000000
+      internalID: -8859090391272110096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Bone3
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 331
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6404ac79f081aa20800000000000000
+      internalID: 3071878229869724778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Mushroom3
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 392
+        width: 47
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262ce7c86eda7ae50800000000000000
+      internalID: 6820611366387106402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Grass
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 65
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab861d0a9ebf896b0800000000000000
+      internalID: -5289200781502617414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_DeadGrass
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 457222cf5bb855230800000000000000
+      internalID: 3626958688652240724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Polished_Rock
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10899befa0da29d0800000000000000
+      internalID: -2798194764466782181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Lava
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f6b079c09e4df490800000000000000
+      internalID: -7710920603226556681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Ice
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c67524aec0ef9170800000000000000
+      internalID: 8187509825704654533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Purple
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d383d2076253c50800000000000000
+      internalID: 6644259088491888026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_SatanHorn
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 897
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1deb8f928f5edd80800000000000000
+      internalID: -8224030854904812262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Fly2
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 1357
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 486943d5b1824c090800000000000000
+      internalID: -8015237338819684732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Slime1
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1352
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77888af6bddf1d860800000000000000
+      internalID: 7553097168990013559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Fly4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1357
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202e4c60c61a75cb0800000000000000
+      internalID: -4875250586263166462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_FlyEye1
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1365
+        width: 41
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30834d56d9e05ea0800000000000000
+      internalID: -5885947606076260290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_FlyEye2
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1362
+        width: 39
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029511825d2917d80800000000000000
+      internalID: -8254655197795493600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_FlyEye3
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1359
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1b9778dc3462c50800000000000000
+      internalID: 6640069250624631270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Fly3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1356
+        width: 45
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e92c191f205af90800000000000000
+      internalID: -6943140013965926838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ghost2
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 1345
+        width: 58
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92b3cc6cb9da666b0800000000000000
+      internalID: -5303360626615370967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Slime2
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1350
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21559ce84792978e0800000000000000
+      internalID: -1695278204139776750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Slime3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1346
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0609e8adb1d67d650800000000000000
+      internalID: 6257590173652914272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Hive
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1288
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b67ba5c31fb68920800000000000000
+      internalID: 2992289094075905718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Spriggan
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1280
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd282f72b7219600800000000000000
+      internalID: 473203083441614332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Abraxas
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 1280
+        width: 55
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 730f8ae3edd42cd10800000000000000
+      internalID: 2144361989511114807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_SpiderBomb
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1283
+        width: 52
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcdb5fa633d31d200800000000000000
+      internalID: 203010749255499211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_HeatPotion
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 913
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5094aa6e31c4e19d0800000000000000
+      internalID: -2801718269819860731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Halo
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 912
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd17197434b126450800000000000000
+      internalID: 6080452422681063899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_LightningPotion
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 900
+        width: 21
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fa9d200f9bbe02f0800000000000000
+      internalID: -1004659375279858952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_PurpleSyringe
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 897
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 956c8e24cd2ed0000800000000000000
+      internalID: 3908610340472409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Clover
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 900
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a485a2fb799d7ea10800000000000000
+      internalID: 1938757410376800330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pikcup_Spirit
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 913
+        width: 38
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbb909f0fa71f3ea0800000000000000
+      internalID: -5890963746929468481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickcup_Mirror
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 903
+        width: 32
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30ef1cd6459b4f1d0800000000000000
+      internalID: -3317823253195391485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Key
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 926
+        width: 32
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92ac855cb0d8860d0800000000000000
+      internalID: -3429336034547545559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Heart
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 900
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea77e56dd51ce8ea0800000000000000
+      internalID: -5868540655644543058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 852
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9e25525b8bcdca0800000000000000
+      internalID: -5990710316154820109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Heaven
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 847
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089ed4948f7359370800000000000000
+      internalID: 8328624625412860288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Chest_Hell
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 847
+        width: 48
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d95a217883e4a510800000000000000
+      internalID: 1559621546130692560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_StarterSword
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 772
+        width: 22
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37c9d4d68a568f00800000000000000
+      internalID: 1118681092591306559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_TwistSword
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 768
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a5f076c038fa570800000000000000
+      internalID: 8480140712653838882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_SkullStaff
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 709
+        width: 15
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c66b2902ce674d90800000000000000
+      internalID: -7113595306751859006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Axe
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 582
+        width: 24
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f26692d434cedf20800000000000000
+      internalID: 3449410095762793204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Rapier
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 770
+        width: 16
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dc7af89977ad5450800000000000000
+      internalID: 6079199212719471829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_EyeStaff
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 709
+        width: 15
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 755176400f78c4f00800000000000000
+      internalID: 1102405473734694231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_WingStaff
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 711
+        width: 45
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3247de8bae8e9a840800000000000000
+      internalID: 5235972136617473059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Dagger
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 781
+        width: 18
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2983b314bc24d0fe0800000000000000
+      internalID: -1221246483207341934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Ice3
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 330
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a6e4e1bd9a839c0800000000000000
+      internalID: -3947218314818852337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Tree3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 320
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae85c13cb497ead0800000000000000
+      internalID: -2673004317811306841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Barrel3
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 326
+        width: 37
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bad9d3f92196b6b40800000000000000
+      internalID: 5434552904054578603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Barrel2
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 329
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93013ff0c4fa1b5c0800000000000000
+      internalID: -4201384236139999175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pickup_Brain
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 898
+        width: 60
+        height: 46
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5867ce2a3fe98930800000000000000
+      internalID: 4146107965143214173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Barrel1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 323
+        width: 38
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89093ebef7a44a210800000000000000
+      internalID: 1343280502142111896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Hay
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9069918287df6e1f0800000000000000
+      internalID: -1015845973414799863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_BlackWhite
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7428663e6d473f0800000000000000
+      internalID: -903861353028892698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Fly1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1355
+        width: 42
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff52a8a5e62d7e220800000000000000
+      internalID: 2515210288316950015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Right
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1537
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a260590ef384a25a0800000000000000
+      internalID: -6545339669241592278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1537
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34f8121a5f40be920800000000000000
+      internalID: 3020513428098879299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 1537
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a37ad62e68c361950800000000000000
+      internalID: 6419384868885342010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Left
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1537
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b8087282d5fa960800000000000000
+      internalID: 7615407921949608793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Up
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 1536
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ee1b8bae26403d0800000000000000
+      internalID: -3241357071539376632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_up
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1536
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1362e7adb947f80800000000000000
+      internalID: -8109685666265812521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Down
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1537
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f56e74a969abe8d20800000000000000
+      internalID: 3282766334395934303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Down
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1537
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 966e900c736705c80800000000000000
+      internalID: -8336032928445634967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ghost1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1347
+        width: 53
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361f68afe45d59350800000000000000
+      internalID: 6022954611865219427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Slime4
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1345
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9be5f69073403990800000000000000
+      internalID: -7408347236176368741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Ghost3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1345
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 196cec3f85157cf20800000000000000
+      internalID: 3442809882637420177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_27
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1280
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15da24b3f062a9510800000000000000
+      internalID: 1556598468070518097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Flower1
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 392
+        width: 15
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cccc41af0d6a55c20800000000000000
+      internalID: 3194642927168310476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Tree2
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 320
+        width: 61
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5946e32509b3623f0800000000000000
+      internalID: -925987182336908139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_32
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 283
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d018e01edf4770490800000000000000
+      internalID: -7780121197507870451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Ice1
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 319
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 032c059f11ab71af0800000000000000
+      internalID: -425667053403192784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Ice2
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 337
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11e1ef4c427f33b0800000000000000
+      internalID: -5530576145304395490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Floor_Rock
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 64
+        width: 64
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d25ad6bfcd4f650800000000000000
+      internalID: 6265875954013646223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_2
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1536
+        width: 51
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87d22020380c963e0800000000000000
+      internalID: -2059903685638345352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Steven1
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1280
+        width: 44
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d233ecb8b84166a0800000000000000
+      internalID: -6457800432392391978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Sludge
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1283
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efe47faa9c297620800000000000000
+      internalID: 2772296088503513061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mushroom
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1281
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb75db771b5763c00800000000000000
+      internalID: 880020182276069307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic1
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 1356
+        width: 33
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f81d0bc8e126e230800000000000000
+      internalID: 3667656230262610163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1350
+        width: 33
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fef53f0235758f40800000000000000
+      internalID: 5730114958762835705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic3
+      rect:
+        serializedVersion: 2
+        x: 1101
+        y: 1350
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c3efa31702c6d90800000000000000
+      internalID: -7103266841576981374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Mimic4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1315
+        width: 33
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7264c326371ac3400800000000000000
+      internalID: 305296391695779367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_29
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1035
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e41f9655a41f49770800000000000000
+      internalID: 8616777288629481806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Weapon_Scythe
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 584
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1fbfd978d2a2087d0800000000000000
+      internalID: -2918286183498908687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SmallFIreball1
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 538
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f6969664ec657eb0800000000000000
+      internalID: -4722748905998608647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Pillar1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 335
+        width: 37
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511bf9f98fca7ee70800000000000000
+      internalID: 9144467752228991253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Feather3
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 336
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27799368a536dcd50800000000000000
+      internalID: 6759167856203110258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_39
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 322
+        width: 14
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bce769d1852bbcbb0800000000000000
+      internalID: -4914638476821496117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_40
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 324
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fdfd1d5d2347b520800000000000000
+      internalID: 2717714762256219638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_41
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 334
+        width: 48
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e4a4e1d2916c4a0800000000000000
+      internalID: -6573538924528251327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SS_42
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 328
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43671c4dd17d3a120800000000000000
+      internalID: 2424017547578930740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Up_Anim2
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 1537
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0801224662611bd0800000000000000
+      internalID: -2661237713463605235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Up_Anim3
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 1536
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 071cbfd10beedb860800000000000000
+      internalID: 7547450990727512432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Up_Anim3
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 1536
+        width: 37
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c0568aa25bd9860800000000000000
+      internalID: 7538380546106526804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Up_Anim4
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1536
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3864565ae9286090800000000000000
+      internalID: -8041131048222562242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Up_Anim1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1536
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c50bea970dedc03b0800000000000000
+      internalID: -5544812054223867812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Feather1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 323
+        width: 52
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26a3523d349f36b10800000000000000
+      internalID: 1973695131418966626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Feather2
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 326
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ba09d4c38900950800000000000000
+      internalID: 6413293254142372744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Tree1
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 320
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b5b07c49ccd96c40800000000000000
+      internalID: 5506174776566134192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Pillar2
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 256
+        width: 49
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 242636720de25c690800000000000000
+      internalID: -7582602926059462078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decoration_Pillar3
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 257
+        width: 124
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d343410000128ec0800000000000000
+      internalID: -3566270362716781615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Up_Anim4
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1536
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d5ddc1f42b74a460800000000000000
+      internalID: 7252056698579178966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Slime1
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 533
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5dce8ed4b500df20800000000000000
+      internalID: 3445259989324582234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Up_Anim1
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1536
+        width: 35
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae88679aefccbbe10800000000000000
+      internalID: 2214589035919608042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Up_Anim2
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 1537
+        width: 38
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0045e58224a558730800000000000000
+      internalID: 4000703084180165632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Down_Anim1
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1472
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8450bfafce7887720800000000000000
+      internalID: 2844172616577254728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Down_Anim2
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1472
+        width: 44
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9dd1ca0cb1b586b0800000000000000
+      internalID: -5294630365711704678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Down_Anim3
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1472
+        width: 45
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61aac958e69cc66a0800000000000000
+      internalID: -6454562689403540970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Down_Anim4
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1472
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b0ae4eb7222b8e0800000000000000
+      internalID: -1679241795538908325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Down_Anim1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1472
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad4fd99c8c79d2a0800000000000000
+      internalID: -6712196826300199515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Down_Anim2
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 1473
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9edfdbd7317509830800000000000000
+      internalID: 4075853403995897321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Down_Anim3
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 1473
+        width: 43
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5ed318b19bac6f50800000000000000
+      internalID: 6876059373434822235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Down_Anim4
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1473
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 686c875df21b082f0800000000000000
+      internalID: -972582700508985722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Right_Anim1
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1472
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae0e142930a958490800000000000000
+      internalID: -7744614644064329494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Anim1
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 1473
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174506c3e1602ec50800000000000000
+      internalID: 6692918723157709937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Worm
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 1280
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e0ac57b3fe81bb0800000000000000
+      internalID: -4964955550517686749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Light1
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 539
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b1b17df77276b0f0800000000000000
+      internalID: -1101567199166746187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Right_Anim2
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 1472
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c62207f4bcce39220800000000000000
+      internalID: 2491595376821281388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Right_Anim3
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1473
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8720dfc0d7ea4e840800000000000000
+      internalID: 5252514917532893816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Right_Anim4
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1472
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fd9a9488eccdaaf0800000000000000
+      internalID: -383425094227419658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Anim2
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1472
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5ac5f4c403819d10800000000000000
+      internalID: 2130628155230505564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Anim3
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1473
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cf7ddefa0a066c20800000000000000
+      internalID: 3199255627635195840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Right_Anim4
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 1472
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7d0a4f35db82840800000000000000
+      internalID: 5199613938083354549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Anim1
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1407
+        width: 39
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdd2047838ef0c800800000000000000
+      internalID: 630783788695170523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Anim2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1408
+        width: 42
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89c384691e8c5c580800000000000000
+      internalID: -8807412625038623592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Anim3
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1407
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c18dff0dbb86c60800000000000000
+      internalID: 7811700059994070095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Left_Anim4
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1408
+        width: 41
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 889ccd38a32f04b50800000000000000
+      internalID: 6575521789095233928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Left1
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1407
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d53589c00c3f8ef90800000000000000
+      internalID: -6924016420911557795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Left2
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1408
+        width: 43
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99950efa0576bf0800000000000000
+      internalID: -331207331274974783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Left3
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 1407
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fde576fc4894cdd40800000000000000
+      internalID: 5610440070560964319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Player_Shoot_Left4
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1407
+        width: 42
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d8683385b1bf270800000000000000
+      internalID: 8285246005113687320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Slime5
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 1351
+        width: 45
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33f44ddcbaec43970800000000000000
+      internalID: 8733832814666207027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_LavaGolem
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1282
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e0641f43ea392530800000000000000
+      internalID: 3830657706014040288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Enemy_Snowman
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1280
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 511fd8e967cd30ec0800000000000000
+      internalID: -3601792874941910763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SmallFIreball2
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 537
+        width: 14
+        height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e2aa613d322d6e70800000000000000
+      internalID: 9109975267457802980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Light2
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 533
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3657b7fbe5cd4cb80800000000000000
+      internalID: -8375327107504704157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Light3
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 528
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64572de509ddaa070800000000000000
+      internalID: 8118544890424620358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_SmallFIreball3
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 536
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf01366d08b110a0800000000000000
+      internalID: -6912541585348423749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Slime2
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 529
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee1c70266c3573ca0800000000000000
+      internalID: -6037264663953554962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Projectile_Slime3
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 531
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88e9779cc110d23f0800000000000000
+      internalID: -924081125390311800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 4d180c5be452a63459165aaa357eb008
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
